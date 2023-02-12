@@ -1,7 +1,7 @@
 # Prediction-of-health-status-based-on-BMI
-'''
-BMI prediction is constantly mocked by the media and the general public.  “Is B.M.I. a
-Scam?” is a question that most people and the media ask.
-I would like to prove my hypothesis and demonstrate how beneficial BMI  checking and
-keeping track of your weight in line with your height is for a human being  to live a healthy life. Using Kaggle datasets and machine learning models  of random forest/linear regression to train existing datasets and do  predictions for the new dataset.
-'''
+
+The Body Mass Index (BMI) is a widely used measure for determining an individual's weight status relative to their height. Despite its widespread usage, BMI prediction has received criticism and skepticism from the media and the general public, with many questioning its validity.
+
+In light of this, I aim to provide evidence for the importance of monitoring and keeping track of one's BMI as a means of leading a healthy lifestyle. The prediction of health status based on BMI can be a valuable tool for individuals to assess their overall health and identify any potential risks. To do this, I plan to leverage the power of Kaggle datasets and machine learning models, specifically utilizing random forest and linear regression algorithms. These tools will be used to train existing data and make predictions for a new dataset, demonstrating the efficacy of BMI prediction in promoting health and wellness.
+
+In conclusion, while BMI prediction may be subject to criticism, I believe that it remains a valuable tool in helping individuals maintain a healthy weight and lifestyle. The prediction of health status based on BMI can provide individuals with valuable information about their health, allowing them to make informed decisions about their well-being. Through the use of advanced machine learning techniques, I hope to provide a clearer understanding of the benefits of monitoring BMI and demonstrate its importance in promoting overall health and wellness.
